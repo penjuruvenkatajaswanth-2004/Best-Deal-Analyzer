@@ -1,0 +1,5 @@
+{
+  "name": "E-Commerce Deal Analyzer",
+  "description": "An AI-powered tool that analyzes e-commerce product URLs to provide a 'buy or not' recommendation, price analysis, and a direct link to the best-priced product.",
+  "requestFramePermissions": []
+}
